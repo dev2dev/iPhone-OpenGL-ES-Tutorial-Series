@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* OpenGLES12 */ = {
+		activeExec = 0;
+		executables = (
+			389649880FA68B1900351323 /* OpenGLES12 */,
+		);
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {737, 686}}";
+			sepNavSelRange = "{1084, 20}";
+			sepNavVisRange = "{18, 1182}";
+		};
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1032, 3346}}";
+			sepNavSelRange = "{1640, 16}";
+			sepNavVisRange = "{2413, 1535}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 389649880FA68B1900351323 /* OpenGLES12 */;
+		activeSDKPreference = iphonesimulator2.2.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OpenGLES12 */;
+		codeSenseManager = 389649940FA68B3F00351323 /* Code sense */;
+		executables = (
+			389649880FA68B1900351323 /* OpenGLES12 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					449,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					559,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 268118405;
+			PBXWorkspaceStateSaveDate = 268118405;
+		};
+		perUserProjectItems = {
+			3882B9980FFB29950080F57C /* PBXTextBookmark */ = 3882B9980FFB29950080F57C /* PBXTextBookmark */;
+			3882B9990FFB29950080F57C /* PBXTextBookmark */ = 3882B9990FFB29950080F57C /* PBXTextBookmark */;
+			3882B99A0FFB29950080F57C /* PBXTextBookmark */ = 3882B99A0FFB29950080F57C /* PBXTextBookmark */;
+			3882B99B0FFB29950080F57C /* PBXTextBookmark */ = 3882B99B0FFB29950080F57C /* PBXTextBookmark */;
+			3882B99C0FFB29950080F57C /* PBXTextBookmark */ = 3882B99C0FFB29950080F57C /* PBXTextBookmark */;
+			38964A290FA6BF2900351323 /* PlistBookmark */ = 38964A290FA6BF2900351323 /* PlistBookmark */;
+			38964A2C0FA6BF2900351323 /* PBXTextBookmark */ = 38964A2C0FA6BF2900351323 /* PBXTextBookmark */;
+			38964A2D0FA6BF2900351323 /* PBXTextBookmark */ = 38964A2D0FA6BF2900351323 /* PBXTextBookmark */;
+			38964A2E0FA6BF2900351323 /* PlistBookmark */ = 38964A2E0FA6BF2900351323 /* PlistBookmark */;
+		};
+		sourceControlManager = 389649930FA68B3F00351323 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3882B9980FFB29950080F57C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 39";
+		rLen = 20;
+		rLoc = 1084;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 18;
+	};
+	3882B9990FFB29950080F57C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 71";
+		rLen = 16;
+		rLoc = 1640;
+		rType = 0;
+		vrLen = 773;
+		vrLoc = 5876;
+	};
+	3882B99A0FFB29950080F57C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 71";
+		rLen = 16;
+		rLoc = 1640;
+		rType = 0;
+		vrLen = 767;
+		vrLoc = 5882;
+	};
+	3882B99B0FFB29950080F57C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 39";
+		rLen = 20;
+		rLoc = 1084;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 18;
+	};
+	3882B99C0FFB29950080F57C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 71";
+		rLen = 16;
+		rLoc = 1640;
+		rType = 0;
+		vrLen = 1535;
+		vrLoc = 2413;
+	};
+	389649880FA68B1900351323 /* OpenGLES12 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OpenGLES12;
+		sourceDirectories = (
+		);
+	};
+	389649930FA68B3F00351323 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	389649940FA68B3F00351323 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	38964A290FA6BF2900351323 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* OpenGLES12-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/smaurice/Projects/iPhone/AppleCoder/OpenGLES12/OpenGLES12-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	38964A2C0FA6BF2900351323 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1172;
+		vrLoc = 3;
+	};
+	38964A2D0FA6BF2900351323 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 67";
+		rLen = 897;
+		rLoc = 1640;
+		rType = 0;
+		vrLen = 1385;
+		vrLoc = 1564;
+	};
+	38964A2E0FA6BF2900351323 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* OpenGLES12-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/smaurice/Projects/iPhone/AppleCoder/OpenGLES12/OpenGLES12-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+}

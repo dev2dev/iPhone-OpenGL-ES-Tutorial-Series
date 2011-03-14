@@ -1,0 +1,178 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Tutorial17 */ = {
+		activeExec = 0;
+		executables = (
+			3809B744101AA04500C55A7A /* Tutorial17 */,
+		);
+	};
+	28FD14FC0DC6FC130079059D /* EAGLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 910}}";
+			sepNavSelRange = "{1413, 0}";
+			sepNavVisRange = "{328, 1134}";
+		};
+	};
+	28FD14FD0DC6FC130079059D /* EAGLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {811, 6888}}";
+			sepNavSelRange = "{7805, 0}";
+			sepNavVisRange = "{12498, 1410}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3809B744101AA04500C55A7A /* Tutorial17 */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Tutorial17 */;
+		codeSenseManager = 3809B75D101AA06400C55A7A /* Code sense */;
+		executables = (
+			3809B744101AA04500C55A7A /* Tutorial17 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					523,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					633,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 270348337;
+			PBXWorkspaceStateSaveDate = 270348337;
+		};
+		perUserProjectItems = {
+			3809B76C101AA26000C55A7A /* PBXTextBookmark */ = 3809B76C101AA26000C55A7A /* PBXTextBookmark */;
+			3809B76D101AA26000C55A7A /* PBXTextBookmark */ = 3809B76D101AA26000C55A7A /* PBXTextBookmark */;
+			3809B774101AAE7500C55A7A /* PBXTextBookmark */ = 3809B774101AAE7500C55A7A /* PBXTextBookmark */;
+			38C05E00101D30D0009A816F /* PBXTextBookmark */ = 38C05E00101D30D0009A816F /* PBXTextBookmark */;
+			38C05E12101D3124009A816F /* PBXTextBookmark */ = 38C05E12101D3124009A816F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3809B75C101AA06400C55A7A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3809B744101AA04500C55A7A /* Tutorial17 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Tutorial17;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	3809B75C101AA06400C55A7A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	3809B75D101AA06400C55A7A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3809B76C101AA26000C55A7A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 0;
+	};
+	3809B76D101AA26000C55A7A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 95";
+		rLen = 0;
+		rLoc = 3158;
+		rType = 0;
+		vrLen = 1411;
+		vrLoc = 593;
+	};
+	3809B774101AAE7500C55A7A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FC0DC6FC130079059D /* EAGLView.h */;
+		name = "EAGLView.h: 60";
+		rLen = 0;
+		rLoc = 1413;
+		rType = 0;
+		vrLen = 1134;
+		vrLoc = 328;
+	};
+	38C05DFD101D30C7009A816F /* EAGLView.m */ = {
+		isa = PBXFileReference;
+		name = EAGLView.m;
+		path = /Users/smaurice/Projects/iPhone/AppleCoder/Tutorial17.5/Classes/EAGLView.m;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {811, 6888}}";
+			sepNavSelRange = "{7805, 0}";
+			sepNavVisRange = "{12498, 1410}";
+		};
+	};
+	38C05E00101D30D0009A816F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 38C05DFD101D30C7009A816F /* EAGLView.m */;
+		rLen = 0;
+		rLoc = 273;
+		rType = 1;
+	};
+	38C05E12101D3124009A816F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28FD14FD0DC6FC130079059D /* EAGLView.m */;
+		name = "EAGLView.m: 283";
+		rLen = 0;
+		rLoc = 7805;
+		rType = 0;
+		vrLen = 1410;
+		vrLoc = 12498;
+	};
+}
